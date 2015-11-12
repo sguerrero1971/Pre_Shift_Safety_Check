@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Pre-Op_Safety_Check</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="App_Info">Mobile Equipment Operator Pre-Op Inspection</string>
+    <string name="checklist_instruction">Inspect each listed component and verify it is in working order, place a check in the corresponding box of working component.</string>
+    <string name="operator_instruction">Provide any additional comments regarding the equipment.  These comments will be submited along with the inspection information provided.</string>
+    <string name="Operator_name">Please enter the Operators Name.</string>
+    <string name="Name_Hint">Enter Operator Name</string>
+    <string name="Vehicle_Number">Please provide the Vehicle Number.</string>
+    <string name="Vehicle_Hint">Enter Vehicle Number</string>
+    <string name="Shift">Select Day or Night shift</string>
+    <string name="day_shift">Day Shift</string>
+    <string name="night_shift">Night Shift</string>
+    <string name="date_time">Verify Date and Time</string>
+    <string name="backup">Backup Alarm</string>
+    <string name="horn">Horn</string>
+    <string name="glassandwipers">Glass and Wipers</string>
+    <string name="seatbelts">SeatBelts</string>
+    <string name="lights">Lights Front and Rear</string>
+    <string name="mirrors">Mirrors</string>
+    <string name="doorlatches">Door Latches</string>
+    <string name="housekeeping">House Keeping</string>
+    <string name="brakes">Brakes</string>
+    <string name="parking_brake">Parking Brake</string>
+    <string name="steering">Steering</string>
+    <string name="wheels_tires">Wheels and Tires</string>
+    <string name="fire_extinguisher">Fire Extinguisher</string>
+    <string name="steps_handels">Steps and Handels</string>
+    <string name="guards">Guards</string>
+    <string name="oil_level">Oil Level</string>
+    <string name="water_level">Water Level</string>
+    <string name="radiator">Radiator</string>
+    <string name="differential">Differential</string>
+    <string name="transmission">Transmission</string>
+    <string name="scsr">SCSR</string>
+    <string name="App_warning">Any unchecked items will be considered faulty and require you to provide further information before being submitted.</string>
+    <string name="checklist_next">Next</string>
+    <string name="safety_next">Next</string>
+    <string name="comment_hint">Enter any pertinent comments here</string>
+    <string name="comment_next">Next</string>
+    <string name="item_instruction">Please provide a description of the fault for:</string>
+    <string name="item_instruction2">test</string>
+    <string name="fault_next">Next</string>
+    <string name="picture">Does this fault need to have a picture included?</string>
+    <string name="take_picture">Take Picture</string>
+
+</resources>
